@@ -209,8 +209,8 @@ If you use this project in your research, please cite:
 ```bibtex
 @software{gpu_graph_analytics,
   title = {GPU Graph Analytics Pipeline},
-  author = {Your Name},
+  author = {Sujal Singh},
   year = {2024},
-  url = {https://github.com/yourusername/gpu_graph_analytics}
+  url = {https://github.com/sujalsin/gpu_graph_analytics}
 }
 ```
